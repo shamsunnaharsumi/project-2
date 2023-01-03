@@ -3,7 +3,7 @@
     padding: 0;
 }
 .main{
-    width: 100%;
+    width:100% ;
     background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(img/1.jpg);
     background-position: center;
     background-size: cover;
@@ -107,8 +107,8 @@ ul li a:hover{
 }
 .content h1{
     font-family: 'Times New Roman';
-    font-size: 50px;
-    padding-left: 20px;
+    font-size: 60px;
+    padding-left: 10px;
     margin-top: 9%;
     letter-spacing: 2px;
 }
@@ -117,6 +117,7 @@ ul li a:hover{
     height: 40px;
     background: #ff7200;
     border: none;
+    margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 20px;
     font-size: 18px;
@@ -154,7 +155,7 @@ ul li a:hover{
     font-family: sans-serif;
     text-align: center;
     color: #ff7200;
-    font-size: 22px;
+    font-size: 20px;
     background-color: #fff;
     border-radius: 10px;
     margin: 2px;
@@ -225,8 +226,8 @@ ul li a:hover{
 }
 .icon ion-icon{
     color: #fff;
-    font-size: 30px;
-    padding-left: 14px;
+    font-size: 25px;
+    padding-left: 10px;
     padding-top: 5px;
     transition: 0.3s ease;
 }
